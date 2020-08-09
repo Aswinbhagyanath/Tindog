@@ -128,7 +128,7 @@ background-color: #ef8172;
   font-size: 3rem;
   line-height: 1.5;
 }*/
-@media (max-width: 1028px) {
+@media (max-width: 1128px) {
   h1, h2, h3, h4, h5, h6{
     /*font-size: 2.5rem;*/
   }
